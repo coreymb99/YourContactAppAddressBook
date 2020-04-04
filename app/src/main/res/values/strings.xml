@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Your Contacts App - Address Book</string>
+    <string name="btnCorey">Corey B</string>
+    <string name="btnStacey">Stacey O.</string>
+    <string name="imgCorey">image of Corey B</string>
+    <string name="imgStacey">image of Stacey O</string>
+    <string name="txtCoreyFull">Corey Bartlett</string>
+    <string name="txtPhoneCorey">727-742-9696</string>
+    <string name="txtStaceyFull">Stacey O</string>
+    <string name="txtPhoneStacey">727-123-4567</string>
+</resources>
